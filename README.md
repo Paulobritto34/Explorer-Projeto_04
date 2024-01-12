@@ -1,6 +1,6 @@
 # Explorer-Projeto_04
 
-Olá, este projeto foi desenvolvido no stage 03 - Explorer da RocketSeat.
+Olá, este projeto foi desenvolvido em sala de aula, no stage 03 - Explorer da RocketSeat.
 
 Dê uma olhadinha 😄
 
