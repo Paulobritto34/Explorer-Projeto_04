@@ -10,3 +10,4 @@ Link: https://paulobritto34.github.io/Explorer-Projeto_04/
 
 
 Nesse projeto estudamos sobre responsividade como utiliza-lá na pratica.
+
